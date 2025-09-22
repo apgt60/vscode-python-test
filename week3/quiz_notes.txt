@@ -1,0 +1,71 @@
+import pandas as pd
+import seaborn as sns
+
+df = pd.read_csv('data.csv')
+
+plot = sns.histplot(data=df, x='price', kde=True)
+
+-----
+import pandas as pd
+import seaborn as sns
+
+df = pd.read_csv('data.csv')
+
+plot = sns.boxplot(data=df,x='ssc_p',y='status')
+-----
+import pandas as pd
+import seaborn as sns
+
+df = pd.read_csv('data.csv')
+corr_matrix = df[['wheel_base','curb_weight','engine_size','price']].corr()
+plot = sns.heatmap(data=corr_matrix, annot=True, cbar=False,vmin=0,
+	vmax=1,fmt='.2g')
+-----------------
+import pandas as pd
+import seaborn as sns
+
+df = pd.read_csv('data.csv')
+
+column_names = df.columns.tolist()
+
+for column in column_names:
+    if df[column].dtype == object:
+        df[column] = df[column].fillna(value = df[column].mode()[0])
+    else:
+        df[column] = df[column].fillna(value = df[column].mean())
+--
+#Use groupby() and transform() to fill the missing values in the 'Credit amount' column using the mean value of the grouped 'Purpose' column.
+
+df['Credit amount'] = df['Credit amount'].fillna(value = df.groupby(['Purpose'])['Credit amount'].transform('mean'))
+--
+#Same as above but median instead of mean
+df['Credit amount'] = df['Credit amount'].fillna(value = df.groupby(['Purpose'])['Credit amount'].transform('median'))
+--
+#Identify columns where the percentage of null values exceeds 25% and store them in a list named columns_to_drop.  Then drop the identified columns from the dataframe and assign it back to the df
+
+column_names = df.columns.tolist()
+columns_to_drop = []
+numrows = len(df)
+
+for cname in column_names:
+    totalNull = df[cname].isnull().sum()
+
+    if totalNull / numrows > 0.25:
+        columns_to_drop.append(cname)
+
+for cname in columns_to_drop:
+    df = df.drop(cname, axis=1)
+--
+#missing counts for each column
+missing_counts = df.isnull().sum()
+--
+#Group the DataFrame by Regionname and Type.  Calculate the mean of the Bedroom column using transform('mean').  Fill the missing values in the Bedroom column by assigning the mean value calculated for each group.  Use a variable names bedroom_filled to store the DF after filling the missing values
+
+df['Bedroom'] = df['Bedroom'].fillna(df.groupby(['Regionname', 'Type'])['Bedroom'].transform('mean'))
+bedroom_filled = df
+--
+#Use isnull() function to detect missing values.  Store the result in null_records which is a DF containing only those rows that have null values.
+null_records = df[df.isnull().any(axis=1)]
+--
+
+
