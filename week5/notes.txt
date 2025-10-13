@@ -1,0 +1,14 @@
+RMSE - 2753 - Used to compare models
+MAE - Mean Absolute Error - average difference between predicted values and actual values
+MAPE - 9.65 - On average, prediction percentage error.  10% is not being predicted correctly.
+R-Squared - .421 - 41% of the variability in sales is explained by the variability of advertising expenditure.
+Adj R-Squared
+
+
+The choice of metric in Regression depends on the specific needs of the model.  
+RMSE and Mean Absolute Error (MAE) focus on the prediction accuracy.  A low RMSE on the test set is what
+you really want and what's used to fairly compare models.  A lower RMSE indicates a better fit and more accurate 
+predictions.
+
+R-squared metrics focus of the proportion of variance explained by the model.
+
