@@ -1,0 +1,15 @@
+In the K-means clustering algorithm, we first select k points at random as cluster centers, 
+then we assign objects to their closest cluster center according to the Euclidean distance function, 
+and then we calculate the centroid or mean of all objects in each cluster. We then repeat the second and 
+third steps until the same points are assigned to each cluster in consecutive rounds.
+
+- Select k points at random as cluster centers.
+- Assign objects to their closest cluster center according to the Euclidean distance function.
+- Calculate the centroid or mean of all objects in each cluster.
+- Repeat steps A and B until the same points are assigned to each cluster in consecutive rounds.
+
+Z-score scaling, also known as standardization, is commonly used to scale data in clustering. It transforms 
+the data so that it has a mean of 0 and a standard deviation of 1, ensuring that all features contribute equally 
+to the distance claculation process.
+
+
