@@ -12,4 +12,4 @@ Z-score scaling, also known as standardization, is commonly used to scale data i
 the data so that it has a mean of 0 and a standard deviation of 1, ensuring that all features contribute equally 
 to the distance claculation process.
 
-
+t-SNE gives an idea how many k values to use (clusters there are).
