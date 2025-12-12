@@ -1,0 +1,10 @@
+https://blog.paperspace.com/adaboost-optimizer/
+https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d
+https://stackabuse.com/gradient-boosting-classifiers-in-python-with-scikit-learn/
+https://xgboost.readthedocs.io/en/latest/tutorials/model.html
+https://arxiv.org/pdf/1603.02754.pdf
+
+From discussion forum:
+
+https://towardsdatascience.com/an-overview-of-boosting-methods-catboost-xgboost-adaboost-lightboost-histogram-based-gradient-407447633ac1/
+
