@@ -1,0 +1,7 @@
+https://www.linkedin.com/pulse/short-explanation-history-natural-language-models-anton-grechanyuk#:~:text=Natural%20Language%20Processing%20has%20come,the%20research%20community%20and%20industry
+
+https://jalammar.github.io/illustrated-word2vec/
+https://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/
+https://www.kaggle.com/c/word2vec-nlp-tutorial/
+
+
