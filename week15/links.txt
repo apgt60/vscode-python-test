@@ -1,0 +1,6 @@
+https://jalammar.github.io/illustrated-transformer/
+https://towardsdatascience.com/transformers-89034557de14
+https://machinelearningmastery.com/the-transformer-attention-mechanism/
+https://arxiv.org/abs/1706.03762
+https://medium.com/geekculture/different-transformer-models-f6f405999e4a
+

@@ -1,0 +1,36 @@
+
+
+Natural Language Processing with Generative AI
+Problem Statement - Airline Customer Review Sentiment Analysis
+Business Context
+In today's digital age, social media platforms like Twitter have become a prominent channel for customers to share their experiences and opinions, and the airline industry is no exception. Passengers frequently turn to Twitter to express their thoughts, feelings, and experiences related to their air travel. The ease of access and immediacy of social media has empowered customers to voice their opinions in real-time, making it a valuable source of feedback for airlines. The airline company recognized the immense value of these insights to understand customer sentiment and continuously enhance the travel experience.
+
+However, the airline company faces a significant challenge with the rise of negative feedback on social media. Negative sentiments expressed by customers become a crucial problem to solve as they can lead to several detrimental effects, including:
+
+Customer Churn: Unaddressed negative sentiment can lead to customer dissatisfaction and ultimately result in passengers choosing competitors for their future travel needs. This translates to a loss of loyal customers, impacting long-term revenue and market share.
+Reputation Damage: Persistent negative sentiment, if left unmanaged, can tarnish an airline's reputation, and influence potential passengers to avoid booking with the airline. A damaged reputation can have lasting consequences, affecting brand loyalty and trust.
+Financial Loss: Loss of revenue can occur if negative sentiment drives passengers away, impacting the airline's profitability and long-term success. Negative feedback can discourage potential passengers from making bookings with the airline, leading to direct financial repercussions
+ 
+
+Problem Definition
+The airline has noticed a trend as it grew - the amount of feedback coming through conventional channels (airline feedback forms, surveys, etc.) has reduced and customers have started sharing their feedback by tagging the airline's official social media handles. The volume of feedback being received on social media has significantly increased (~25%) over the past six months. In particular, the official Twitter handle of the airline saw a 50% increase in mentions. While they were initially tracking the social media feedback manually, the recent increase in volume has made it difficult to continue the same. This has prompted the airline to seek an AI-based solution to analyze the feedback provided by customers on social media. They believe that such a solution will be more effective than their current methods and provide insights that can proactively help them minimize revenue loss. As a first step, they want to start by assessing the feedback provided by customers on social media and categorizing the sentiment of the customer as negative, positive, or neutral.
+
+As a Data Scientist on the airline's Data Team, you are provided with the tweets shared by customers regarding their experience with the airline's services. The objective is to analyze the data and build a predictive model that can parse the customer reviews and predict the sentiment of the customer.
+
+ 
+
+Data Dictionary
+tweet_id - A unique identifier for each tweet
+airline_sentiment - The sentiment label of the tweet, such as positive, negative, or neutral
+airline_sentiment_confidence - The confidence level associated with the sentiment label
+negativereason - A category indicating the reason for negative sentiment
+negativereason_confidence - The confidence level associated with the negative reason
+airline - The airline associated with the tweet
+airline_sentiment_gold - Gold standard sentiment label
+name - The username of the tweet author
+retweet_count - The number of times the tweet has been retweeted
+text - The actual text content of the tweet.
+tweet_coord - Coordinates of the tweet
+tweet_created - The timestamp when the tweet was created
+tweet_location - The location mentioned in the tweet
+user_timezone - The timezone of the tweet author
