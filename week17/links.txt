@@ -1,0 +1,6 @@
+https://www.datastax.com/guides/what-is-retrieval-augmented-generation
+
+https://www.couchbase.com/blog/what-are-vector-embeddings/
+
+https://wandb.ai/mostafaibrahim17/ml-articles/reports/A-Gentle-Introduction-to-Advanced-RAG--Vmlldzo2NjIyNTQw
+
