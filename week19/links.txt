@@ -1,0 +1,11 @@
+https://arxiv.org/pdf/1403.6382.pdf
+
+https://arxiv.org/pdf/1812.07997.pdf
+
+https://www.tensorflow.org/tutorials/images/classification
+
+https://www.tensorflow.org/tutorials/images/transfer_learning
+
+https://www.tensorflow.org/tutorials/images/data_augmentation
+
+https://leonardoaraujosantos.gitbook.io/artificial-inteligence/machine_learning/deep_learning
