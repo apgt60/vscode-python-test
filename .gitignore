@@ -2,3 +2,1009 @@ week14/2.2+imdb_10K_sentimnets_reviews.csv
 week14/glove.6B.100d.txt
 week14/glove.6B.100d.txt.word2vec
 week14/glove.6B.100d.zip
+week17/merck_db/chroma.sqlite3
+week17/merck_db/357faa48-2cdd-4e4c-b957-be6fd196089c/data_level0.bin
+week17/merck_db/357faa48-2cdd-4e4c-b957-be6fd196089c/header.bin
+week17/merck_db/357faa48-2cdd-4e4c-b957-be6fd196089c/index_metadata.pickle
+week17/merck_db/357faa48-2cdd-4e4c-b957-be6fd196089c/length.bin
+week17/merck_db/357faa48-2cdd-4e4c-b957-be6fd196089c/link_lists.bin
+week20/brain_tumor/Testing/no_tumor/image(5).jpg
+week20/brain_tumor/Testing/no_tumor/image(6).jpg
+week20/brain_tumor/Testing/no_tumor/image(7).jpg
+week20/brain_tumor/Testing/no_tumor/image(8).jpg
+week20/brain_tumor/Testing/no_tumor/image(9).jpg
+week20/brain_tumor/Testing/no_tumor/image(10).jpg
+week20/brain_tumor/Testing/no_tumor/image(11).jpg
+week20/brain_tumor/Testing/no_tumor/image(12).jpg
+week20/brain_tumor/Testing/no_tumor/image(13).jpg
+week20/brain_tumor/Testing/no_tumor/image(14).jpg
+week20/brain_tumor/Testing/no_tumor/image(15).jpg
+week20/brain_tumor/Testing/no_tumor/image(16).jpg
+week20/brain_tumor/Testing/no_tumor/image(17).jpg
+week20/brain_tumor/Testing/no_tumor/image(18).jpg
+week20/brain_tumor/Testing/no_tumor/image(19).jpg
+week20/brain_tumor/Testing/no_tumor/image(20).jpg
+week20/brain_tumor/Testing/no_tumor/image(21).jpg
+week20/brain_tumor/Testing/no_tumor/image(22).jpg
+week20/brain_tumor/Testing/no_tumor/image(23).jpg
+week20/brain_tumor/Testing/no_tumor/image(24).jpg
+week20/brain_tumor/Testing/no_tumor/image(25).jpg
+week20/brain_tumor/Testing/no_tumor/image(26).jpg
+week20/brain_tumor/Testing/no_tumor/image(27).jpg
+week20/brain_tumor/Testing/no_tumor/image(28).jpg
+week20/brain_tumor/Testing/no_tumor/image(29).jpg
+week20/brain_tumor/Testing/no_tumor/image(30).jpg
+week20/brain_tumor/Testing/no_tumor/image(31).jpg
+week20/brain_tumor/Testing/no_tumor/image(32).jpg
+week20/brain_tumor/Testing/no_tumor/image(33).jpg
+week20/brain_tumor/Testing/no_tumor/image(34).jpg
+week20/brain_tumor/Testing/no_tumor/image(35).jpg
+week20/brain_tumor/Testing/no_tumor/image(36).jpg
+week20/brain_tumor/Testing/no_tumor/image(37).jpg
+week20/brain_tumor/Testing/no_tumor/image(38).jpg
+week20/brain_tumor/Testing/no_tumor/image(39).jpg
+week20/brain_tumor/Testing/no_tumor/image(40).jpg
+week20/brain_tumor/Testing/no_tumor/image(41).jpg
+week20/brain_tumor/Testing/no_tumor/image(42).jpg
+week20/brain_tumor/Testing/no_tumor/image(43).jpg
+week20/brain_tumor/Testing/no_tumor/image(44).jpg
+week20/brain_tumor/Testing/no_tumor/image(45).jpg
+week20/brain_tumor/Testing/no_tumor/image(46).jpg
+week20/brain_tumor/Testing/no_tumor/image(47).jpg
+week20/brain_tumor/Testing/no_tumor/image(48).jpg
+week20/brain_tumor/Testing/no_tumor/image(49).jpg
+week20/brain_tumor/Testing/no_tumor/image(50).jpg
+week20/brain_tumor/Testing/no_tumor/image(51).jpg
+week20/brain_tumor/Testing/no_tumor/image(52).jpg
+week20/brain_tumor/Testing/no_tumor/image(53).jpg
+week20/brain_tumor/Testing/no_tumor/image(54).jpg
+week20/brain_tumor/Testing/no_tumor/image(55).jpg
+week20/brain_tumor/Testing/no_tumor/image(56).jpg
+week20/brain_tumor/Testing/no_tumor/image(57).jpg
+week20/brain_tumor/Testing/no_tumor/image(58).jpg
+week20/brain_tumor/Testing/no_tumor/image(59).jpg
+week20/brain_tumor/Testing/no_tumor/image(60).jpg
+week20/brain_tumor/Testing/no_tumor/image(61).jpg
+week20/brain_tumor/Testing/no_tumor/image(62).jpg
+week20/brain_tumor/Testing/no_tumor/image(63).jpg
+week20/brain_tumor/Testing/no_tumor/image(64).jpg
+week20/brain_tumor/Testing/no_tumor/image(65).jpg
+week20/brain_tumor/Testing/no_tumor/image(66).jpg
+week20/brain_tumor/Testing/no_tumor/image(67).jpg
+week20/brain_tumor/Testing/no_tumor/image(68).jpg
+week20/brain_tumor/Testing/no_tumor/image(69).jpg
+week20/brain_tumor/Testing/no_tumor/image(70).jpg
+week20/brain_tumor/Testing/no_tumor/image(71).jpg
+week20/brain_tumor/Testing/no_tumor/image(72).jpg
+week20/brain_tumor/Testing/no_tumor/image(73).jpg
+week20/brain_tumor/Testing/no_tumor/image(74).jpg
+week20/brain_tumor/Testing/no_tumor/image(75).jpg
+week20/brain_tumor/Testing/no_tumor/image(76).jpg
+week20/brain_tumor/Testing/no_tumor/image(77).jpg
+week20/brain_tumor/Testing/no_tumor/image(78).jpg
+week20/brain_tumor/Testing/no_tumor/image(79).jpg
+week20/brain_tumor/Testing/no_tumor/image(80).jpg
+week20/brain_tumor/Testing/no_tumor/image(81).jpg
+week20/brain_tumor/Testing/no_tumor/image(82).jpg
+week20/brain_tumor/Testing/no_tumor/image(83).jpg
+week20/brain_tumor/Testing/no_tumor/image(84).jpg
+week20/brain_tumor/Testing/no_tumor/image(85).jpg
+week20/brain_tumor/Testing/no_tumor/image(86).jpg
+week20/brain_tumor/Testing/no_tumor/image(87).jpg
+week20/brain_tumor/Testing/no_tumor/image(88).jpg
+week20/brain_tumor/Testing/no_tumor/image(89).jpg
+week20/brain_tumor/Testing/no_tumor/image(90).jpg
+week20/brain_tumor/Testing/no_tumor/image(91).jpg
+week20/brain_tumor/Testing/no_tumor/image(92).jpg
+week20/brain_tumor/Testing/no_tumor/image(93).jpg
+week20/brain_tumor/Testing/no_tumor/image(94).jpg
+week20/brain_tumor/Testing/no_tumor/image(95).jpg
+week20/brain_tumor/Testing/no_tumor/image(96).jpg
+week20/brain_tumor/Testing/no_tumor/image(97).jpg
+week20/brain_tumor/Testing/no_tumor/image(98).jpg
+week20/brain_tumor/Testing/no_tumor/image(99).jpg
+week20/brain_tumor/Testing/no_tumor/image(100).jpg
+week20/brain_tumor/Testing/no_tumor/image(101).jpg
+week20/brain_tumor/Testing/no_tumor/image(102).jpg
+week20/brain_tumor/Testing/no_tumor/image(103).jpg
+week20/brain_tumor/Testing/no_tumor/image(104).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(5).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(6).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(7).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(8).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(10).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(11).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(13).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(15).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(18).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(19).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(20).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(21).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(22).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(23).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(27).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(28).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(30).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(31).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(34).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(35).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(36).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(37).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(38).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(41).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(42).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(43).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(44).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(45).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(46).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(47).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(48).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(49).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(51).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(52).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(53).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(54).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(55).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(56).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(57).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(60).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(61).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(63).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(64).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(65).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(66).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(67).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(68).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(69).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(70).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(73).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(76).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(77).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(78).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(79).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(81).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(82).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(85).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(86).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(87).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(88).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(89).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(90).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(91).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(92).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(93).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(94).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(95).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(96).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(97).jpg
+week20/brain_tumor/Testing/pituitary_tumor/image(98).jpg
+week20/brain_tumor/Training/no_tumor/1.jpg
+week20/brain_tumor/Training/no_tumor/2.jpg
+week20/brain_tumor/Training/no_tumor/3.jpg
+week20/brain_tumor/Training/no_tumor/4.jpg
+week20/brain_tumor/Training/no_tumor/5.jpg
+week20/brain_tumor/Training/no_tumor/6.jpg
+week20/brain_tumor/Training/no_tumor/7.jpg
+week20/brain_tumor/Training/no_tumor/8.jpg
+week20/brain_tumor/Training/no_tumor/image (4).jpg
+week20/brain_tumor/Training/no_tumor/image (5).jpg
+week20/brain_tumor/Training/no_tumor/image (6).jpg
+week20/brain_tumor/Training/no_tumor/image (7).jpg
+week20/brain_tumor/Training/no_tumor/image (8).jpg
+week20/brain_tumor/Training/no_tumor/image (9).jpg
+week20/brain_tumor/Training/no_tumor/image (10).jpg
+week20/brain_tumor/Training/no_tumor/image (11).jpg
+week20/brain_tumor/Training/no_tumor/image (12).jpg
+week20/brain_tumor/Training/no_tumor/image (13).jpg
+week20/brain_tumor/Training/no_tumor/image (14).jpg
+week20/brain_tumor/Training/no_tumor/image (15).jpg
+week20/brain_tumor/Training/no_tumor/image (16).jpg
+week20/brain_tumor/Training/no_tumor/image (17).jpg
+week20/brain_tumor/Training/no_tumor/image (18).jpg
+week20/brain_tumor/Training/no_tumor/image (19).jpg
+week20/brain_tumor/Training/no_tumor/image (20).jpg
+week20/brain_tumor/Training/no_tumor/image (21).jpg
+week20/brain_tumor/Training/no_tumor/image (22).jpg
+week20/brain_tumor/Training/no_tumor/image (23).jpg
+week20/brain_tumor/Training/no_tumor/image (24).jpg
+week20/brain_tumor/Training/no_tumor/image (25).jpg
+week20/brain_tumor/Training/no_tumor/image (26).jpg
+week20/brain_tumor/Training/no_tumor/image (27).jpg
+week20/brain_tumor/Training/no_tumor/image (28).jpg
+week20/brain_tumor/Training/no_tumor/image (29).jpg
+week20/brain_tumor/Training/no_tumor/image (30).jpg
+week20/brain_tumor/Training/no_tumor/image (31).jpg
+week20/brain_tumor/Training/no_tumor/image (32).jpg
+week20/brain_tumor/Training/no_tumor/image (33).jpg
+week20/brain_tumor/Training/no_tumor/image (34).jpg
+week20/brain_tumor/Training/no_tumor/image (35).jpg
+week20/brain_tumor/Training/no_tumor/image (36).jpg
+week20/brain_tumor/Training/no_tumor/image (37).jpg
+week20/brain_tumor/Training/no_tumor/image (38).jpg
+week20/brain_tumor/Training/no_tumor/image (39).jpg
+week20/brain_tumor/Training/no_tumor/image (40).jpg
+week20/brain_tumor/Training/no_tumor/image (41).jpg
+week20/brain_tumor/Training/no_tumor/image (42).jpg
+week20/brain_tumor/Training/no_tumor/image (43).jpg
+week20/brain_tumor/Training/no_tumor/image (44).jpg
+week20/brain_tumor/Training/no_tumor/image (45).jpg
+week20/brain_tumor/Training/no_tumor/image (46).jpg
+week20/brain_tumor/Training/no_tumor/image (47).jpg
+week20/brain_tumor/Training/no_tumor/image (48).jpg
+week20/brain_tumor/Training/no_tumor/image (49).jpg
+week20/brain_tumor/Training/no_tumor/image (50).jpg
+week20/brain_tumor/Training/no_tumor/image (51).jpg
+week20/brain_tumor/Training/no_tumor/image (52).jpg
+week20/brain_tumor/Training/no_tumor/image (53).jpg
+week20/brain_tumor/Training/no_tumor/image (54).jpg
+week20/brain_tumor/Training/no_tumor/image (55).jpg
+week20/brain_tumor/Training/no_tumor/image (56).jpg
+week20/brain_tumor/Training/no_tumor/image (57).jpg
+week20/brain_tumor/Training/no_tumor/image (58).jpg
+week20/brain_tumor/Training/no_tumor/image (59).jpg
+week20/brain_tumor/Training/no_tumor/image (60).jpg
+week20/brain_tumor/Training/no_tumor/image (61).jpg
+week20/brain_tumor/Training/no_tumor/image (62).jpg
+week20/brain_tumor/Training/no_tumor/image (63).jpg
+week20/brain_tumor/Training/no_tumor/image (64).jpg
+week20/brain_tumor/Training/no_tumor/image.jpg
+week20/brain_tumor/Training/no_tumor/image(1).jpg
+week20/brain_tumor/Training/no_tumor/image(2).jpg
+week20/brain_tumor/Training/no_tumor/image(3).jpg
+week20/brain_tumor/Training/no_tumor/image(4).jpg
+week20/brain_tumor/Training/no_tumor/image(5).jpg
+week20/brain_tumor/Training/no_tumor/image(6).jpg
+week20/brain_tumor/Training/no_tumor/image(7).jpg
+week20/brain_tumor/Training/no_tumor/image(8).jpg
+week20/brain_tumor/Training/no_tumor/image(9).jpg
+week20/brain_tumor/Training/no_tumor/image(10).jpg
+week20/brain_tumor/Training/no_tumor/image(11).jpg
+week20/brain_tumor/Training/no_tumor/image(12).jpg
+week20/brain_tumor/Training/no_tumor/image(13).jpg
+week20/brain_tumor/Training/no_tumor/image(14).jpg
+week20/brain_tumor/Training/no_tumor/image(15).jpg
+week20/brain_tumor/Training/no_tumor/image(16).jpg
+week20/brain_tumor/Training/no_tumor/image(17).jpg
+week20/brain_tumor/Training/no_tumor/image(18).jpg
+week20/brain_tumor/Training/no_tumor/image(19).jpg
+week20/brain_tumor/Training/no_tumor/image(20).jpg
+week20/brain_tumor/Training/no_tumor/image(21).jpg
+week20/brain_tumor/Training/no_tumor/image(22).jpg
+week20/brain_tumor/Training/no_tumor/image(23).jpg
+week20/brain_tumor/Training/no_tumor/image(24).jpg
+week20/brain_tumor/Training/no_tumor/image(25).jpg
+week20/brain_tumor/Training/no_tumor/image(26).jpg
+week20/brain_tumor/Training/no_tumor/image(27).jpg
+week20/brain_tumor/Training/no_tumor/image(28).jpg
+week20/brain_tumor/Training/no_tumor/image(29).jpg
+week20/brain_tumor/Training/no_tumor/image(30).jpg
+week20/brain_tumor/Training/no_tumor/image(31).jpg
+week20/brain_tumor/Training/no_tumor/image(32).jpg
+week20/brain_tumor/Training/no_tumor/image(33).jpg
+week20/brain_tumor/Training/no_tumor/image(34).jpg
+week20/brain_tumor/Training/no_tumor/image(35).jpg
+week20/brain_tumor/Training/no_tumor/image(36).jpg
+week20/brain_tumor/Training/no_tumor/image(37).jpg
+week20/brain_tumor/Training/no_tumor/image(38).jpg
+week20/brain_tumor/Training/no_tumor/image(39).jpg
+week20/brain_tumor/Training/no_tumor/image(40).jpg
+week20/brain_tumor/Training/no_tumor/image(41).jpg
+week20/brain_tumor/Training/no_tumor/image(42).jpg
+week20/brain_tumor/Training/no_tumor/image(43).jpg
+week20/brain_tumor/Training/no_tumor/image(44).jpg
+week20/brain_tumor/Training/no_tumor/image(45).jpg
+week20/brain_tumor/Training/no_tumor/image(46).jpg
+week20/brain_tumor/Training/no_tumor/image(47).jpg
+week20/brain_tumor/Training/no_tumor/image(48).jpg
+week20/brain_tumor/Training/no_tumor/image(49).jpg
+week20/brain_tumor/Training/no_tumor/image(50).jpg
+week20/brain_tumor/Training/no_tumor/image(51).jpg
+week20/brain_tumor/Training/no_tumor/image(52).jpg
+week20/brain_tumor/Training/no_tumor/image(53).jpg
+week20/brain_tumor/Training/no_tumor/image(54).jpg
+week20/brain_tumor/Training/no_tumor/image(55).jpg
+week20/brain_tumor/Training/no_tumor/image(56).jpg
+week20/brain_tumor/Training/no_tumor/image(57).jpg
+week20/brain_tumor/Training/no_tumor/image(58).jpg
+week20/brain_tumor/Training/no_tumor/image(59).jpg
+week20/brain_tumor/Training/no_tumor/image(60).jpg
+week20/brain_tumor/Training/no_tumor/image(61).jpg
+week20/brain_tumor/Training/no_tumor/image(62).jpg
+week20/brain_tumor/Training/no_tumor/image(63).jpg
+week20/brain_tumor/Training/no_tumor/image(64).jpg
+week20/brain_tumor/Training/no_tumor/image(65).jpg
+week20/brain_tumor/Training/no_tumor/image(66).jpg
+week20/brain_tumor/Training/no_tumor/image(67).jpg
+week20/brain_tumor/Training/no_tumor/image(68).jpg
+week20/brain_tumor/Training/no_tumor/image(69).jpg
+week20/brain_tumor/Training/no_tumor/image(70).jpg
+week20/brain_tumor/Training/no_tumor/image(71).jpg
+week20/brain_tumor/Training/no_tumor/image(72).jpg
+week20/brain_tumor/Training/no_tumor/image(73).jpg
+week20/brain_tumor/Training/no_tumor/image(74).jpg
+week20/brain_tumor/Training/no_tumor/image(75).jpg
+week20/brain_tumor/Training/no_tumor/image(76).jpg
+week20/brain_tumor/Training/no_tumor/image(77).jpg
+week20/brain_tumor/Training/no_tumor/image(78).jpg
+week20/brain_tumor/Training/no_tumor/image(79).jpg
+week20/brain_tumor/Training/no_tumor/image(80).jpg
+week20/brain_tumor/Training/no_tumor/image(81).jpg
+week20/brain_tumor/Training/no_tumor/image(82).jpg
+week20/brain_tumor/Training/no_tumor/image(83).jpg
+week20/brain_tumor/Training/no_tumor/image(84).jpg
+week20/brain_tumor/Training/no_tumor/image(85).jpg
+week20/brain_tumor/Training/no_tumor/image(86).jpg
+week20/brain_tumor/Training/no_tumor/image(87).jpg
+week20/brain_tumor/Training/no_tumor/image(88).jpg
+week20/brain_tumor/Training/no_tumor/image(89).jpg
+week20/brain_tumor/Training/no_tumor/image(90).jpg
+week20/brain_tumor/Training/no_tumor/image(91).jpg
+week20/brain_tumor/Training/no_tumor/image(92).jpg
+week20/brain_tumor/Training/no_tumor/image(93).jpg
+week20/brain_tumor/Training/no_tumor/image(94).jpg
+week20/brain_tumor/Training/no_tumor/image(95).jpg
+week20/brain_tumor/Training/no_tumor/image(96).jpg
+week20/brain_tumor/Training/no_tumor/image(98).jpg
+week20/brain_tumor/Training/no_tumor/image(99).jpg
+week20/brain_tumor/Training/no_tumor/image(100).jpg
+week20/brain_tumor/Training/no_tumor/image(101).jpg
+week20/brain_tumor/Training/no_tumor/image(102).jpg
+week20/brain_tumor/Training/no_tumor/image(103).jpg
+week20/brain_tumor/Training/no_tumor/image(104).jpg
+week20/brain_tumor/Training/no_tumor/image(105).jpg
+week20/brain_tumor/Training/no_tumor/image(106).jpg
+week20/brain_tumor/Training/no_tumor/image(107).jpg
+week20/brain_tumor/Training/no_tumor/image(108).jpg
+week20/brain_tumor/Training/no_tumor/image(110).jpg
+week20/brain_tumor/Training/no_tumor/image(111).jpg
+week20/brain_tumor/Training/no_tumor/image(112).jpg
+week20/brain_tumor/Training/no_tumor/image(113).jpg
+week20/brain_tumor/Training/no_tumor/image(114).jpg
+week20/brain_tumor/Training/no_tumor/image(115).jpg
+week20/brain_tumor/Training/no_tumor/image(116).jpg
+week20/brain_tumor/Training/no_tumor/image(117).jpg
+week20/brain_tumor/Training/no_tumor/image(118).jpg
+week20/brain_tumor/Training/no_tumor/image(119).jpg
+week20/brain_tumor/Training/no_tumor/image(120).jpg
+week20/brain_tumor/Training/no_tumor/image(121).jpg
+week20/brain_tumor/Training/no_tumor/image(122).jpg
+week20/brain_tumor/Training/no_tumor/image(123).jpg
+week20/brain_tumor/Training/no_tumor/image(124).jpg
+week20/brain_tumor/Training/no_tumor/image(125).jpg
+week20/brain_tumor/Training/no_tumor/image(126).jpg
+week20/brain_tumor/Training/no_tumor/image(127).jpg
+week20/brain_tumor/Training/no_tumor/image(128).jpg
+week20/brain_tumor/Training/no_tumor/image(129).jpg
+week20/brain_tumor/Training/no_tumor/image(130).jpg
+week20/brain_tumor/Training/no_tumor/image(131).jpg
+week20/brain_tumor/Training/no_tumor/image(132).jpg
+week20/brain_tumor/Training/no_tumor/image(133).jpg
+week20/brain_tumor/Training/no_tumor/image(134).jpg
+week20/brain_tumor/Training/no_tumor/image(135).jpg
+week20/brain_tumor/Training/no_tumor/image(136).jpg
+week20/brain_tumor/Training/no_tumor/image(137).jpg
+week20/brain_tumor/Training/no_tumor/image(138).jpg
+week20/brain_tumor/Training/no_tumor/image(139).jpg
+week20/brain_tumor/Training/no_tumor/image(140).jpg
+week20/brain_tumor/Training/no_tumor/image(141).jpg
+week20/brain_tumor/Training/no_tumor/image(142).jpg
+week20/brain_tumor/Training/no_tumor/image(143).jpg
+week20/brain_tumor/Training/no_tumor/image(144).jpg
+week20/brain_tumor/Training/no_tumor/image(145).jpg
+week20/brain_tumor/Training/no_tumor/image(146).jpg
+week20/brain_tumor/Training/no_tumor/image(147).jpg
+week20/brain_tumor/Training/no_tumor/image(148).jpg
+week20/brain_tumor/Training/no_tumor/image(149).jpg
+week20/brain_tumor/Training/no_tumor/image(150).jpg
+week20/brain_tumor/Training/no_tumor/image(151).jpg
+week20/brain_tumor/Training/no_tumor/image(152).jpg
+week20/brain_tumor/Training/no_tumor/image(153).jpg
+week20/brain_tumor/Training/no_tumor/image(154).jpg
+week20/brain_tumor/Training/no_tumor/image(155).jpg
+week20/brain_tumor/Training/no_tumor/image(156).jpg
+week20/brain_tumor/Training/no_tumor/image(157).jpg
+week20/brain_tumor/Training/no_tumor/image(158).jpg
+week20/brain_tumor/Training/no_tumor/image(159).jpg
+week20/brain_tumor/Training/no_tumor/image(160).jpg
+week20/brain_tumor/Training/no_tumor/image(161).jpg
+week20/brain_tumor/Training/no_tumor/image(162).jpg
+week20/brain_tumor/Training/no_tumor/image(163).jpg
+week20/brain_tumor/Training/no_tumor/image(164).jpg
+week20/brain_tumor/Training/no_tumor/image(165).jpg
+week20/brain_tumor/Training/no_tumor/image(166).jpg
+week20/brain_tumor/Training/no_tumor/image(167).jpg
+week20/brain_tumor/Training/no_tumor/image(168).jpg
+week20/brain_tumor/Training/no_tumor/image(169).jpg
+week20/brain_tumor/Training/no_tumor/image(170).jpg
+week20/brain_tumor/Training/no_tumor/image(171).jpg
+week20/brain_tumor/Training/no_tumor/image(172).jpg
+week20/brain_tumor/Training/no_tumor/image(173).jpg
+week20/brain_tumor/Training/no_tumor/image(174).jpg
+week20/brain_tumor/Training/no_tumor/image(175).jpg
+week20/brain_tumor/Training/no_tumor/image(176).jpg
+week20/brain_tumor/Training/no_tumor/image(177).jpg
+week20/brain_tumor/Training/no_tumor/image(178).jpg
+week20/brain_tumor/Training/no_tumor/image(179).jpg
+week20/brain_tumor/Training/no_tumor/image(180).jpg
+week20/brain_tumor/Training/no_tumor/image(181).jpg
+week20/brain_tumor/Training/no_tumor/image(182).jpg
+week20/brain_tumor/Training/no_tumor/image(183).jpg
+week20/brain_tumor/Training/no_tumor/image(184).jpg
+week20/brain_tumor/Training/no_tumor/image(185).jpg
+week20/brain_tumor/Training/no_tumor/image(186).jpg
+week20/brain_tumor/Training/no_tumor/image(187).jpg
+week20/brain_tumor/Training/no_tumor/image(188).jpg
+week20/brain_tumor/Training/no_tumor/image(189).jpg
+week20/brain_tumor/Training/no_tumor/image(190).jpg
+week20/brain_tumor/Training/no_tumor/image(191).jpg
+week20/brain_tumor/Training/no_tumor/image(192).jpg
+week20/brain_tumor/Training/no_tumor/image(193).jpg
+week20/brain_tumor/Training/no_tumor/image(194).jpg
+week20/brain_tumor/Training/no_tumor/image(195).jpg
+week20/brain_tumor/Training/no_tumor/image(196).jpg
+week20/brain_tumor/Training/no_tumor/image(197).jpg
+week20/brain_tumor/Training/no_tumor/image(198).jpg
+week20/brain_tumor/Training/no_tumor/image(199).jpg
+week20/brain_tumor/Training/no_tumor/image(200).jpg
+week20/brain_tumor/Training/no_tumor/image(201).jpg
+week20/brain_tumor/Training/no_tumor/image(202).jpg
+week20/brain_tumor/Training/no_tumor/image(203).jpg
+week20/brain_tumor/Training/no_tumor/image(204).jpg
+week20/brain_tumor/Training/no_tumor/image(205).jpg
+week20/brain_tumor/Training/no_tumor/image(206).jpg
+week20/brain_tumor/Training/no_tumor/image(207).jpg
+week20/brain_tumor/Training/no_tumor/image(208).jpg
+week20/brain_tumor/Training/no_tumor/image(209).jpg
+week20/brain_tumor/Training/no_tumor/image(210).jpg
+week20/brain_tumor/Training/no_tumor/image(211).jpg
+week20/brain_tumor/Training/no_tumor/image(212).jpg
+week20/brain_tumor/Training/no_tumor/image(213).jpg
+week20/brain_tumor/Training/no_tumor/image(214).jpg
+week20/brain_tumor/Training/no_tumor/image(215).jpg
+week20/brain_tumor/Training/no_tumor/image(216).jpg
+week20/brain_tumor/Training/no_tumor/image(217).jpg
+week20/brain_tumor/Training/no_tumor/image(218).jpg
+week20/brain_tumor/Training/no_tumor/image(219).jpg
+week20/brain_tumor/Training/no_tumor/image(220).jpg
+week20/brain_tumor/Training/no_tumor/image(221).jpg
+week20/brain_tumor/Training/no_tumor/image(222).jpg
+week20/brain_tumor/Training/no_tumor/image(223).jpg
+week20/brain_tumor/Training/no_tumor/image(224).jpg
+week20/brain_tumor/Training/no_tumor/image(225).jpg
+week20/brain_tumor/Training/no_tumor/image(226).jpg
+week20/brain_tumor/Training/no_tumor/image(227).jpg
+week20/brain_tumor/Training/no_tumor/image(228).jpg
+week20/brain_tumor/Training/no_tumor/image(229).jpg
+week20/brain_tumor/Training/no_tumor/image(230).jpg
+week20/brain_tumor/Training/no_tumor/image(231).jpg
+week20/brain_tumor/Training/no_tumor/image(232).jpg
+week20/brain_tumor/Training/no_tumor/image(233).jpg
+week20/brain_tumor/Training/no_tumor/image(234).jpg
+week20/brain_tumor/Training/no_tumor/image(235).jpg
+week20/brain_tumor/Training/no_tumor/image(236).jpg
+week20/brain_tumor/Training/no_tumor/image(237).jpg
+week20/brain_tumor/Training/no_tumor/image(238).jpg
+week20/brain_tumor/Training/no_tumor/image(239).jpg
+week20/brain_tumor/Training/no_tumor/image(240).jpg
+week20/brain_tumor/Training/no_tumor/image(241).jpg
+week20/brain_tumor/Training/no_tumor/image(242).jpg
+week20/brain_tumor/Training/no_tumor/image(243).jpg
+week20/brain_tumor/Training/no_tumor/image(244).jpg
+week20/brain_tumor/Training/no_tumor/image(245).jpg
+week20/brain_tumor/Training/no_tumor/image(246).jpg
+week20/brain_tumor/Training/no_tumor/image(247).jpg
+week20/brain_tumor/Training/no_tumor/image(248).jpg
+week20/brain_tumor/Training/no_tumor/image(249).jpg
+week20/brain_tumor/Training/no_tumor/image(250).jpg
+week20/brain_tumor/Training/no_tumor/image(251).jpg
+week20/brain_tumor/Training/no_tumor/image(252).jpg
+week20/brain_tumor/Training/no_tumor/image(253).jpg
+week20/brain_tumor/Training/no_tumor/image(254).jpg
+week20/brain_tumor/Training/no_tumor/image(255).jpg
+week20/brain_tumor/Training/no_tumor/image(256).jpg
+week20/brain_tumor/Training/no_tumor/image(257).jpg
+week20/brain_tumor/Training/no_tumor/image(258).jpg
+week20/brain_tumor/Training/no_tumor/image(259).jpg
+week20/brain_tumor/Training/no_tumor/image(260).jpg
+week20/brain_tumor/Training/no_tumor/image(261).jpg
+week20/brain_tumor/Training/no_tumor/image(262).jpg
+week20/brain_tumor/Training/no_tumor/image(263).jpg
+week20/brain_tumor/Training/no_tumor/image(264).jpg
+week20/brain_tumor/Training/no_tumor/image(265).jpg
+week20/brain_tumor/Training/no_tumor/image(266).jpg
+week20/brain_tumor/Training/no_tumor/image(267).jpg
+week20/brain_tumor/Training/no_tumor/image(268).jpg
+week20/brain_tumor/Training/no_tumor/image(269).jpg
+week20/brain_tumor/Training/no_tumor/image(270).jpg
+week20/brain_tumor/Training/no_tumor/image(271).jpg
+week20/brain_tumor/Training/no_tumor/image(272).jpg
+week20/brain_tumor/Training/no_tumor/image(273).jpg
+week20/brain_tumor/Training/no_tumor/image(274).jpg
+week20/brain_tumor/Training/no_tumor/image(275).jpg
+week20/brain_tumor/Training/no_tumor/image(276).jpg
+week20/brain_tumor/Training/no_tumor/image(277).jpg
+week20/brain_tumor/Training/no_tumor/image(278).jpg
+week20/brain_tumor/Training/no_tumor/image(279).jpg
+week20/brain_tumor/Training/no_tumor/image(280).jpg
+week20/brain_tumor/Training/no_tumor/image(281).jpg
+week20/brain_tumor/Training/no_tumor/image(282).jpg
+week20/brain_tumor/Training/no_tumor/image(283).jpg
+week20/brain_tumor/Training/no_tumor/image(284).jpg
+week20/brain_tumor/Training/no_tumor/image(285).jpg
+week20/brain_tumor/Training/no_tumor/image(286).jpg
+week20/brain_tumor/Training/no_tumor/image(287).jpg
+week20/brain_tumor/Training/no_tumor/image(288).jpg
+week20/brain_tumor/Training/no_tumor/image(289).jpg
+week20/brain_tumor/Training/no_tumor/image(290).jpg
+week20/brain_tumor/Training/no_tumor/image(291).jpg
+week20/brain_tumor/Training/no_tumor/image(292).jpg
+week20/brain_tumor/Training/no_tumor/image(293).jpg
+week20/brain_tumor/Training/no_tumor/image(294).jpg
+week20/brain_tumor/Training/no_tumor/image(295).jpg
+week20/brain_tumor/Training/no_tumor/image(296).jpg
+week20/brain_tumor/Training/no_tumor/image(297).jpg
+week20/brain_tumor/Training/no_tumor/image(298).jpg
+week20/brain_tumor/Training/no_tumor/image(299).jpg
+week20/brain_tumor/Training/no_tumor/image(300).jpg
+week20/brain_tumor/Training/no_tumor/image(301).jpg
+week20/brain_tumor/Training/no_tumor/image(302).jpg
+week20/brain_tumor/Training/no_tumor/image(303).jpg
+week20/brain_tumor/Training/no_tumor/image(304).jpg
+week20/brain_tumor/Training/no_tumor/image(305).jpg
+week20/brain_tumor/Training/no_tumor/image(306).jpg
+week20/brain_tumor/Training/no_tumor/image(307).jpg
+week20/brain_tumor/Training/no_tumor/image(308).jpg
+week20/brain_tumor/Training/no_tumor/image(309).jpg
+week20/brain_tumor/Training/no_tumor/image(310).jpg
+week20/brain_tumor/Training/no_tumor/image(311).jpg
+week20/brain_tumor/Training/no_tumor/image(312).jpg
+week20/brain_tumor/Training/no_tumor/image(313).jpg
+week20/brain_tumor/Training/no_tumor/image(314).jpg
+week20/brain_tumor/Training/no_tumor/image(315).jpg
+week20/brain_tumor/Training/no_tumor/image(316).jpg
+week20/brain_tumor/Training/no_tumor/image(317).jpg
+week20/brain_tumor/Training/no_tumor/image(318).jpg
+week20/brain_tumor/Training/no_tumor/image(319).jpg
+week20/brain_tumor/Training/no_tumor/image(320).jpg
+week20/brain_tumor/Training/no_tumor/image(321).jpg
+week20/brain_tumor/Training/no_tumor/image(322).jpg
+week20/brain_tumor/Training/no_tumor/image(323).jpg
+week20/brain_tumor/Training/no_tumor/image(324).jpg
+week20/brain_tumor/Training/no_tumor/image(325).jpg
+week20/brain_tumor/Training/no_tumor/image(326).jpg
+week20/brain_tumor/Training/no_tumor/image(327).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (393).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (394).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (395).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (396).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (397).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (398).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (399).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (400).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (401).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (402).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (403).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (404).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (405).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (406).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (407).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (408).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (409).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (410).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (411).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (412).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (413).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (414).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (415).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (416).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (417).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (418).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (419).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (420).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (421).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (422).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (423).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (424).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (425).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (426).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (427).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (428).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (429).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (430).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (431).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (432).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (433).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (434).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (435).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (436).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (437).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (438).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (439).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (440).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (441).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (442).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (443).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (444).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (445).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (446).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (447).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (448).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (449).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (450).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (451).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (452).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (453).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (454).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (455).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (456).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (457).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (458).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (459).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (460).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (461).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (462).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (463).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (464).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (465).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (466).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (467).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (468).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (469).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (470).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (471).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (472).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (473).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (474).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (475).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (476).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (477).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (478).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (479).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (480).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (481).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (482).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (483).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (484).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (485).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (486).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (487).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (488).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (489).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (490).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (491).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (492).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (493).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (494).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (495).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (496).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (497).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (498).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (499).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (500).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (501).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (502).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (503).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (504).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (505).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (506).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (507).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (508).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (509).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (510).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (511).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (512).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (513).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (514).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (515).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (516).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (517).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (518).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (519).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (520).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (521).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (522).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (523).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (524).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (525).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (526).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (527).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (528).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (529).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (530).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (531).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (532).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (533).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (534).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (535).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (536).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (537).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (538).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (539).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (540).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (541).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (542).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (543).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (544).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (545).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (546).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (547).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (548).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (549).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (550).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (551).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (552).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (553).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (554).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (555).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (556).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (557).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (558).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (559).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (560).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (561).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (562).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (563).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (564).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (565).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (566).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (567).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (568).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (569).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (570).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (571).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (572).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (573).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (574).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (575).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (576).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (577).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (578).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (579).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (580).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (581).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (582).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (583).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (584).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (585).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (586).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (587).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (588).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (589).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (590).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (591).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (592).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (593).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (594).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (595).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (596).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (597).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (598).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (599).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (600).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (601).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (602).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (603).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (604).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (605).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (606).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (607).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (608).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (609).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (610).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (611).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (612).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (613).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (614).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (615).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (616).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (617).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (618).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (619).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (620).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (621).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (622).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (623).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (624).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (625).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (626).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (627).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (628).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (629).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (630).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (631).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (632).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (633).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (634).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (635).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (636).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (637).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (638).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (639).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (640).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (641).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (642).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (643).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (644).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (645).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (646).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (647).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (648).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (649).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (650).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (651).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (652).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (653).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (654).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (655).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (656).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (657).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (658).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (659).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (660).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (661).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (662).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (663).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (664).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (665).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (666).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (667).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (668).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (669).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (670).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (671).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (672).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (673).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (674).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (675).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (676).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (677).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (678).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (679).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (680).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (681).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (682).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (683).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (684).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (685).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (686).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (687).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (688).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (689).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (690).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (691).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (692).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (693).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (694).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (695).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (696).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (697).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (698).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (699).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (700).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (701).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (702).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (703).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (704).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (705).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (706).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (707).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (708).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (709).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (710).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (711).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (712).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (713).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (714).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (715).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (716).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (717).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (718).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (719).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (720).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (721).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (722).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (723).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (724).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (725).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (726).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (727).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (728).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (729).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (730).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (731).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (732).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (733).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (734).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (735).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (736).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (737).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (738).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (739).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (740).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (741).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (742).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (743).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (744).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (745).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (746).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (747).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (748).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (749).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (750).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (751).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (752).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (753).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (754).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (755).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (756).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (757).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (758).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (759).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (760).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (761).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (762).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (763).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (764).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (765).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (766).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (767).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (768).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (769).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (770).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (771).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (772).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (773).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (774).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (775).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (776).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (777).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (778).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (779).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (780).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (781).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (782).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (783).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (784).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (785).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (786).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (787).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (788).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (789).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (790).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (791).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (792).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (793).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (794).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (795).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (796).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (797).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (798).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (799).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (800).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (801).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (802).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (803).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (804).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (805).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (806).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (807).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (808).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (809).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (810).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (811).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (812).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (813).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (814).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (815).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (816).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (817).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (818).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (819).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (820).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (821).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (822).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (823).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (824).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (825).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (826).jpg
+week20/brain_tumor/Training/pituitary_tumor/p (827).jpg
