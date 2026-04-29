@@ -56,10 +56,11 @@ uploaded_file = st.file_uploader("Upload CSV file for batch prediction", type=["
 # Make batch prediction when the "Predict Batch" button is clicked
 if uploaded_file is not None:
     if st.button("Predict Batch"):
-        response = requests.post("https://huggingface.co/spaces/apgt60/superkart/v1/salesbatch", files={"file": uploaded_file})  # Send file to Flask API
+        response = requests.post("https://apgt60-superkart.hf.space/v1/salesbatch", files={"file": uploaded_file})  # Send file to Flask API
         if response.status_code == 200:
             predictions = response.json()
             st.success("Batch predictions completed!")
             st.write(predictions)  # Display the predictions
         else:
-            st.error("Error making batch prediction.")
+            errormessage = "Error making batch prediction.  Got response code " + str(response.status_code)
+            st.error(errormessage)
